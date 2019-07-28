@@ -1,8 +1,15 @@
 # Mobile-DNA
 
-This is the research about mobile application usage on the smartphones
-Dataset is of 2009 users, DataFrame: id, app name, start time of the record, end time of the record
+Introduction
 
-Explore switching apps behaviour
+This is a study on mobile application usage on the smartphones
+Dataset is of 2009 users, DataFrame: id, app name, start time, end time
+The goal of study is:
+- Explore switching apps behaviour
+- Assess the conditional probability models in predicting the next app to be used
 
-Valid the prediction models for the next mobile applications
+Method
+
+Result
+
+Conclusion
