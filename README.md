@@ -5,3 +5,4 @@ This is a study on mobile application usage on the smartphones. Dataset is of 20
 - Explore switching apps behaviour
 - Assess the conditional probability models in predicting the next app to be used
 
+dat6.csv is too heavy, cannot be uploaded
